@@ -1,2 +1,2 @@
 # Gladiator
-component base , 
+component base ,,
